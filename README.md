@@ -1,16 +1,18 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🤖
 
-<!--
-**Joeldiegom32/Joeldiegom32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e joel diego mamani maamni 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desevolvendo na liguagem JavaScript
+- utilizo o site de github de projeto desenvolvimento
+- estudo de alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 📫
+
+00001117477058sp@al.educacao.sp.gov.br
+
+joeldiegom32@gmail.com
+
+![image](https://github.com/Joeldiegom32/Joeldiegom32/assets/172077714/2ce62492-21e7-4d29-a77e-4041b297ecd7)
+
+
